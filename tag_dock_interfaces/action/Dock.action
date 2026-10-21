@@ -1,0 +1,11 @@
+# Goal
+int32 tag_id
+---
+# Result
+bool success
+float64 final_position_error_m
+float64 final_heading_error_rad
+---
+# Feedback
+string state
+float64 distance_remaining_m
