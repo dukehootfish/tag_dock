@@ -1,0 +1,6 @@
+# Pose of each tag model in the world frame (metres, radians).
+# The readable face points along the tag's yaw.
+tags:
+  1: {x: 2.498,  y: 0.0,   z: 0.12, yaw: 3.14159}
+  2: {x: 1.5,    y: 1.998, z: 0.12, yaw: -1.5708}
+  3: {x: -1.998, y: 1.0,   z: 0.12, yaw: 0.0}
